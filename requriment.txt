@@ -1,8 +1,9 @@
 tensorflow
-pandas 
-numpy 
+pandas
+numpy
 scikit-learn
 tensorboard
 matplotlib
 streamlit
 scikeras
+protobuf==3.20.*
